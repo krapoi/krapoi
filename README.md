@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=Csharp&logoColor=white"/>
   </div>
-  <h1>사용 해 본 플렛폼</h1>
+  <h1>사용 해 본 플랫폼 or 프레임워크</h1>
   <div>
     <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>
