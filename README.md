@@ -3,12 +3,12 @@
 
 
 <div>
-    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=Csharp&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=white"/> 
